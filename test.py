@@ -1,0 +1,2 @@
+import Sample
+Sample.name()
