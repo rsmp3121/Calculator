@@ -1,2 +1,0 @@
-import Sample
-Sample.name()
